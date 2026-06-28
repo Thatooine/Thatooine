@@ -19,7 +19,7 @@
 <!-- ====== TYPING INTRO ====== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Building+production-grade+distributed+systems;5%2B+years+shipping+backend+microservices+in+Go;gRPC+%7C+Cloud-native+%7C+Event-driven;Observability%2C+code+quality%2C+systems+that+scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Building+distributed+systems+%28and+occasionally+my+patience%29;Go+dev+%E2%80%94+life%27s+too+short+for+null+pointer+surprises;gRPC+%7C+Cloud-native+%7C+Caffeine-driven;I+make+microservices+talk+so+humans+don%27t+have+to;React+dev+%E2%80%94+where+re-renders+keep+me+humble;State+management%3A+because+prop+drilling+is+not+a+personality;Node.js+%E2%80%94+non-blocking%2C+unlike+my+deadlines)](https://git.io/typing-svg)
 
 </div>
 
