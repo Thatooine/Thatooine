@@ -54,13 +54,6 @@ func main() {
 }
 ```
 
-- 🔭 I **lead backend development** of distributed microservices in **Go**
-- 🧩 I design **gRPC APIs** with Protocol Buffers, real-time **event streaming**, and resilient **distributed transaction systems**
-- ☁️ I own **GCP deployments** — Cloud Run, App Engine, Pub/Sub — with **OpenTelemetry** tracing & structured logging
-- 🎓 **BSc Computer Science & Mathematics** + **Applied Mathematics Honours (Distinction)** — North-West University
-- 🏆 **2nd Place** — Standard Bank Coding Challenge
-- 🌱 Always sharpening: system design, performance, and clean architecture
-
 ---
 
 ## 🛠️ Tech Stack
