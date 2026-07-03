@@ -97,7 +97,6 @@ func main() {
 |---|---|---|
 | **[RestaurantOS](https://github.com/Thatooine/RestaurantOS)** | Domain-driven service design | Go |
 | **[go-test-html-report](https://github.com/Thatooine/go-test-html-report)** | Developer tooling for Go test reporting ⭐ | Go |
-| **[thatooine.com](https://github.com/Thatooine/thatooine.com)** | Personal portfolio with motion design | Next.js · React · TypeScript · Tailwind |
 | **[mars-bot](https://github.com/Thatooine/mars-bot)** | Grid-navigation simulation with clean TDD | TypeScript · Bun |
 | **[Trailhead-Logger-Node](https://github.com/Thatooine/Trailhead-Logger-Node)** | Server-rendered web app | Node.js · Express |
 
