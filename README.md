@@ -2,16 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:2EA043&height=200&section=header&text=Thato%20Lekukela%20Maake&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Go%20%C2%B7%20TypeScript%20%C2%B7%20React%20%C2%B7%20Node&descSize=16&descAlignY=58&descAlign=50" />
 
-<a href="https://linkedin.com/in/thato-maake">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:tmthatoo4@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://thatooinemaake.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
 </div>
 
 <div align="center">
@@ -57,7 +47,7 @@ me := Engineer{
 
 | Project | What it shows | Stack |
 |---|---|---|
-| **[loyalty-points-app](https://github.com/Thatooine/loyalty-points-app)** | Points ledger with gRPC + event sourcing | Go |
+| **[loyalty-points-app](https://github.com/Thatooine/loyalty-points-app)** | JSON-RPC 2.0 wallet — JWT, idempotent txns, CSV ingestion | Go |
 | **[go-test-html-report](https://github.com/Thatooine/go-test-html-report)** | Developer tooling for Go test reporting | Go |
 | **[mars-bot](https://github.com/Thatooine/mars-bot)** | Grid-navigation simulation with TDD | TypeScript · Bun |
 | **[Trailhead-Logger-Node](https://github.com/Thatooine/Trailhead-Logger-Node)** | Server-rendered web app | Node.js · Express |
