@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1500&color=2EA043&center=true&vCenter=true&width=600&lines=Go+%7C+TypeScript+%7C+Distributed+Systems;Building+things+that+scale+%28and+occasionally+my+patience%29;gRPC+%C2%B7+Cloud-native+%C2%B7+Event-driven)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&color=2EA043&center=true&vCenter=true&width=500&repeat=false&lines=Go+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Node)](https://git.io/typing-svg)
 
 </div>
 
