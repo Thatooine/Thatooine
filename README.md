@@ -19,7 +19,7 @@ me := Engineer{
     Name:       "Thato Lekukela Maake",
     Role:       "Senior Software Engineer",
     Location:   "South Africa 🇿🇦",
-    Focus:      []string{"Distributed Systems", "Microservices", "gRPC", "GCP", "Event Driven Sysyems"},
+    Focus:      []string{"Distributed Systems", "Microservices", "gRPC", "GCP", "Event Driven Systems"},
 }
 ```
 
