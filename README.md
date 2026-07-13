@@ -52,13 +52,6 @@ me := Engineer{
 | **[mars-bot](https://github.com/Thatooine/mars-bot)** | Grid-navigation simulation with TDD | TypeScript · Bun |
 | **[Trailhead-Logger-Node](https://github.com/Thatooine/Trailhead-Logger-Node)** | Server-rendered web app | Node.js · Express |
 
-## Experience
-
-```text
-Mesh.Trade   │ Senior Software Engineer   │ Aug 2023 – Present
-Mesh.Trade   │ Software Engineer          │ Mar 2022 – Aug 2023
-Andile Sol.  │ Software Engineer          │ Jan 2019 – Mar 2022
-```
 
 ## Connect
 
